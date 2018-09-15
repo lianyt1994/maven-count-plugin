@@ -4,7 +4,7 @@
 mvn clean install安装到本地仓库
 
 导入依赖
-<build>
+<build></br>
         <plugins>
             <plugin>
                 <groupId>com.pubinfo</groupId>
